@@ -1,0 +1,16 @@
+*PPD-Adobe: "4.3"
+*%
+*% MX80 Printer PPD
+*%
+*FormatVersion: "4.3"
+*FileVersion:   "1.1"
+*LanguageVersion: English
+*LanguageEncoding: ISOLatin1
+*PCFileName:    "mx80.ppd"
+*Manufacturer:  "sweh"
+*Product:       "(MX80 Printer Interface Script)"
+*cupsFilter:    "text/plain 0 mx80"
+*cupsFilter:    "application/vnd.cups-raw 0 mx80"
+*ModelName:     "MX80 Printer Interface Script"
+*ShortNickName: "MX80 Printer Interface Script"
+*NickName:      "MX80 Printer Interface Script"

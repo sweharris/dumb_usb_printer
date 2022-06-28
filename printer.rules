@@ -1,0 +1,2 @@
+#Rules for USB printer
+KERNEL=="lp*", ATTRS{idVendor}=="####", ATTRS{idProduct}=="####", MODE="0666", SYMLINK+="lp_######"

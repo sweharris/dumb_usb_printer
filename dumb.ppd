@@ -1,0 +1,16 @@
+*PPD-Adobe: "4.3"
+*%
+*% Dumb Printer PPD
+*%
+*FormatVersion: "4.3"
+*FileVersion:   "1.1"
+*LanguageVersion: English
+*LanguageEncoding: ISOLatin1
+*PCFileName:    "dumb.ppd"
+*Manufacturer:  "sweh"
+*Product:       "(Dumb Printer Interface Script)"
+*cupsFilter:    "text/plain 0 dumb"
+*cupsFilter:    "application/vnd.cups-raw 0 dumb"
+*ModelName:     "Dumb Printer Interface Script"
+*ShortNickName: "Dumb Printer Interface Script"
+*NickName:      "Dumb Printer Interface Script"

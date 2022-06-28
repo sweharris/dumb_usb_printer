@@ -1,0 +1,6 @@
+#!/bin/bash
+{
+  printf "\x1b@"
+  cat "$6"
+  echo
+} > /dev/lp_receipt

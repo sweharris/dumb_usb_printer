@@ -1,0 +1,4 @@
+#!/bin/bash
+{
+  cat "$6"
+} > /dev/lp_mx80

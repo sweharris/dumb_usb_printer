@@ -1,0 +1,16 @@
+*PPD-Adobe: "4.3"
+*%
+*% Receipt Printer PPD
+*%
+*FormatVersion: "4.3"
+*FileVersion:   "1.1"
+*LanguageVersion: English
+*LanguageEncoding: ISOLatin1
+*PCFileName:    "receipt.ppd"
+*Manufacturer:  "sweh"
+*Product:       "(Receipt Printer Interface Script)"
+*cupsFilter:    "text/plain 0 receipt"
+*cupsFilter:    "application/vnd.cups-raw 0 receipt"
+*ModelName:     "Receipt Printer Interface Script"
+*ShortNickName: "Receipt Printer Interface Script"
+*NickName:      "Receipt Printer Interface Script"

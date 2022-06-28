@@ -1,0 +1,2 @@
+#Rules for USB LP
+KERNEL=="lp*", ATTRS{idVendor}=="1a86", ATTRS{idProduct}=="7584", MODE="0666", SYMLINK+="lp_mx80"
