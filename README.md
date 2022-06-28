@@ -160,3 +160,5 @@ sends an additional blank line afterwards), and for hooking up an old
 Epson dot matrix printer.
 
 These may help explain some of the customisations that can be done.
+
+You can [see it working](https://www.youtube.com/watch?v=LioWDLqEs04) in a very retro setting, printing from a BBC Micro via Econet to an MX80 using a Raspberry Pi
