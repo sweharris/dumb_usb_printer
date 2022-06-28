@@ -100,7 +100,7 @@ You should now see your printer in the `/dev` directory; e.g.
     % ls -l /dev/lp_receipt 
     lrwxrwxrwx 1 root root 7 Jun 28 18:25 /dev/lp_receipt -> usb/lp0
 
-## Now we can define the printer in CUPS
+## Define the printer in CUPS
 
 Edit the `dumb` script to refer to the correct `/dev` entry you just
 create.  Now you can copy the file to the `filter directory
